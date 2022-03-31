@@ -4,7 +4,7 @@ Jed Wang
 
 jcsaltfish@gmail.com
 
-![image]()
+![image](https://github.com/JCSaltFish/CPUNewtonianParticle/blob/master/demo.gif)
 
 - OpenGL implementation
 
@@ -17,6 +17,6 @@ jcsaltfish@gmail.com
 - Uniform grid acceleration
 
 
-OBJ LOADER by Robert Smith
 
+OBJ LOADER by Robert Smith: 
 https://github.com/Bly7/OBJ-Loader
